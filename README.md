@@ -18,6 +18,7 @@
 - [Save and Commit](#SaveandCommit)
 
 
+
 ## 📱Features
 
 - **Cross-Platform Support:** Built using Flutter, this app works seamlessly across Android, iOS, and other supported platforms.
@@ -28,11 +29,13 @@
 - **UI Design:** Clean and modern user interface with a focus on accessibility and responsiveness.
 
 
+
 ## 🎨 Design Principles
 
 - **Minimalist and Modern Design:** Focused on simplicity and ease of use.
 - **Consistent Visuals:** Unified color schemes, icons, and typography throughout the app.
 - **Responsive Layout:** Designed to work seamlessly across various devices.
+
 
 
 ## 🚀 Getting Started
@@ -57,6 +60,7 @@ To run this project locally, clone the repository and follow the steps below:
    ```
 
 
+
 ## Screenshots
 
 ![1](https://github.com/user-attachments/assets/1a486456-09e5-4bbd-a47c-f59087ce3046)
@@ -64,10 +68,12 @@ To run this project locally, clone the repository and follow the steps below:
 ![2](https://github.com/user-attachments/assets/67e2c5bf-df5d-4f99-8030-7587fd82d7a9)
 
 
+
 ## 🛠️ Built With
 
 - **Flutter:** The framework used for building the UI.
 - **Dart:** The programming language used in Flutter.
+
 
 
 ## Dependencies
@@ -80,9 +86,11 @@ This project depends on the following packages:
 - **flutter_launcher_icons:**
 
 
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 
 
 ## 📄 License
@@ -90,9 +98,12 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
+
 ## Contact Information
 
 For any queries, feel free to reach out at vivek6306619@gmail.com.
+
+
 
 ## Save and Commit
 
