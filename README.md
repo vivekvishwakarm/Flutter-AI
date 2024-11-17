@@ -69,6 +69,7 @@ To run this project locally, clone the repository and follow the steps below:
 
 ## Dependencies
 
+This project depends on the following packages:
 - **flutter_gemini:** 
 - **image_picker:**
 - **flutter_markdown:** 
