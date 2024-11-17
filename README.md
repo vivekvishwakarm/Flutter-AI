@@ -69,11 +69,11 @@ To run this project locally, clone the repository and follow the steps below:
 
 ## Dependencies
 
-  **flutter_gemini:** 
-  **image_picker:**
-  **flutter_markdown:** 
-  **loading_indicator:**
-  **flutter_launcher_icons:**
+- **flutter_gemini:** 
+- **image_picker:**
+- **flutter_markdown:** 
+- **loading_indicator:**
+- **flutter_launcher_icons:**
 
 
 ## 🤝 Contributing
